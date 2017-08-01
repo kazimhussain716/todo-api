@@ -1,0 +1,7 @@
+1.We installed mongodb native so we can do operations like CRUD on our Database.
+2.Then we installed mongoose so we don't have to write same boilerplate code 
+ which we had todo in mongodb native.mongoose can do it for us.
+ 3.We installed bluebird as promise library because default promise library for
+ mongoose is deprecated.
+ 4.We installed Body parser so that we can tak JSON anc convert to object 
+ and send to our server.
