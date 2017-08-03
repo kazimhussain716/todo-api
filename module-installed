@@ -7,4 +7,6 @@
  and send to our server.
  5.We installed Expect for assertion ,mocha for testing ,nodemon to execute 
  our program without refreshing and supertest to test our test the express routes.
- 
+6.We installed validator to validate Email. 
+7.We installed crypto-js to hashing in playground.
+8.Then JSONWebToken came for hashing.
