@@ -10,3 +10,4 @@
 6.We installed validator to validate Email. 
 7.We installed crypto-js to hashing in playground.
 8.Then JSONWebToken came for hashing.
+9.Bcryptjs can be used for password hashing.
